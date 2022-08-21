@@ -1,6 +1,7 @@
 import React from "react";
 import Menu from "../components/menu/menu";
 import Purchase from "../components/purchase/purchase";
+import WalletButton from "../components/connectWallet/connectWallet";
 
 export default function MintPage()
 {
@@ -8,6 +9,7 @@ export default function MintPage()
     <>
     <Menu />
     <Purchase />
+    <WalletButton />
     </>
   );
 }

@@ -1,3 +1,9 @@
+.connectWallet{
+  position:absolute;
+  top:65vh;
+  left:15vw;
+}
+
 .container {
     width: 70%;
     left: 0;
